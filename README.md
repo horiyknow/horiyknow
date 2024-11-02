@@ -1,5 +1,2 @@
-# Quavier | Quavierus | _qu4v13r\_
-> Bot-dev on python
-
-## Presence
+<p style="text-align:center;">Text_content</p>
 [![Stolen from s3nkwr](https://lanyard.cnrad.dev/api/734285075021299792?borderRadius=20px&idleMessage=wherever...%20you%20like%20kissing%20boys,%20don%27t%20you?)](https://discord.com/users/734285075021299792)
